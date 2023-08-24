@@ -1,4 +1,4 @@
-# opt-thermal-syst
+# harnessing-mine-thermal-energy
 
 <!-- [![DOI](https://zenodo.org/badge/206265040.svg)](https://zenodo.org/badge/latestdoi/206265040) -->
 
@@ -43,9 +43,9 @@ Repository with  code used for the execution of optimisation model and post-proc
 
 ## Usage
 
-The code includes X sample cases: a single-family house (SFH) and a decentralised thermal system.
+The code includes sample cases: a single-family house (SFH) and a decentralised thermal system.
 
-Further components examples are found in the [COMANDO](https://jugit.fz-juelich.de/iek-10/public/optimization/comando) list of examples, 
+Further component examples are found in the [COMANDO](https://jugit.fz-juelich.de/iek-10/public/optimization/comando) list of examples, 
 
 ## Considerations
 - COMANDO is solver agnostic; minor modifications to the code should be needed to run the code with other solvers, although this hasn't been tested so far.
