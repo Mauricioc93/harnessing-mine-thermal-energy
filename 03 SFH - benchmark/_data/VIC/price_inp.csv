@@ -1,0 +1,11 @@
+﻿name,maintenance_cost,nominal_cost,variable_cost
+ashp,130,3239,432
+boiler,287,5826,0
+el_heat,27,3051,0
+heat_ex,63,3829,191
+cen_wshp,0,443,955
+decen_wshp,0,4778,1228
+cen_he,0,0,115
+peak_boiler,0,0,0
+comp_boiler,287,4078,0
+comp_el_heater,27,2133,0
